@@ -1,0 +1,1 @@
+Customer #     Subtotal     Sales Tax     Shipping Charge     Total Cost

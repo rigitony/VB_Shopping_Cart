@@ -1,0 +1,12 @@
+C:\Users\Tony\Desktop\RIO Classes\CIS 159 VBA\FINAL PROJECT\Anthony Griego Final Project\Shopping Cart Solution\Shopping Cart Project\bin\Debug\Shopping Cart Project.exe.config
+C:\Users\Tony\Desktop\RIO Classes\CIS 159 VBA\FINAL PROJECT\Anthony Griego Final Project\Shopping Cart Solution\Shopping Cart Project\bin\Debug\Shopping Cart Project.exe
+C:\Users\Tony\Desktop\RIO Classes\CIS 159 VBA\FINAL PROJECT\Anthony Griego Final Project\Shopping Cart Solution\Shopping Cart Project\bin\Debug\Shopping Cart Project.pdb
+C:\Users\Tony\Desktop\RIO Classes\CIS 159 VBA\FINAL PROJECT\Anthony Griego Final Project\Shopping Cart Solution\Shopping Cart Project\bin\Debug\Shopping Cart Project.xml
+C:\Users\Tony\Desktop\RIO Classes\CIS 159 VBA\FINAL PROJECT\Anthony Griego Final Project\Shopping Cart Solution\Shopping Cart Project\obj\Debug\Shopping Cart Project.vbprojAssemblyReference.cache
+C:\Users\Tony\Desktop\RIO Classes\CIS 159 VBA\FINAL PROJECT\Anthony Griego Final Project\Shopping Cart Solution\Shopping Cart Project\obj\Debug\Shopping_Cart_Project.frmMain.resources
+C:\Users\Tony\Desktop\RIO Classes\CIS 159 VBA\FINAL PROJECT\Anthony Griego Final Project\Shopping Cart Solution\Shopping Cart Project\obj\Debug\Shopping_Cart_Project.Resources.resources
+C:\Users\Tony\Desktop\RIO Classes\CIS 159 VBA\FINAL PROJECT\Anthony Griego Final Project\Shopping Cart Solution\Shopping Cart Project\obj\Debug\Shopping Cart Project.vbproj.GenerateResource.cache
+C:\Users\Tony\Desktop\RIO Classes\CIS 159 VBA\FINAL PROJECT\Anthony Griego Final Project\Shopping Cart Solution\Shopping Cart Project\obj\Debug\Shopping Cart Project.vbproj.CoreCompileInputs.cache
+C:\Users\Tony\Desktop\RIO Classes\CIS 159 VBA\FINAL PROJECT\Anthony Griego Final Project\Shopping Cart Solution\Shopping Cart Project\obj\Debug\Shopping Cart Project.exe
+C:\Users\Tony\Desktop\RIO Classes\CIS 159 VBA\FINAL PROJECT\Anthony Griego Final Project\Shopping Cart Solution\Shopping Cart Project\obj\Debug\Shopping Cart Project.xml
+C:\Users\Tony\Desktop\RIO Classes\CIS 159 VBA\FINAL PROJECT\Anthony Griego Final Project\Shopping Cart Solution\Shopping Cart Project\obj\Debug\Shopping Cart Project.pdb
